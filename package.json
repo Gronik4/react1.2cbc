@@ -21,7 +21,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": " https://gronik4.github.io/react1.2cbc/",
+  "author": "Gronik4",
+  "license": "ISC",
+  "homepage": "https://gronik4.github.io/react1.2cbc/",
   "eslintConfig": {
     "extends": [
       "react-app",
